@@ -6,11 +6,13 @@ activityid : Values 1 to 6 corresponsing to the fllowing activitylabel
 4- SITTING
 5- STANDING
 6- LAYING
+
 activitylabel : Has the activity labels as mentioned above
+
 subjectid : Refers to the subject who performed the test. Values rainging from 1 to 30
+
 Listed below are the next 79 variables for Mean and STD measurements
 •tBodyAcc-mean-X
-
 •tBodyAcc-mean-Y
 •tBodyAcc-mean-Z
 •tBodyAcc-std-X
