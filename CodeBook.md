@@ -1,5 +1,5 @@
 The output file contains the following fields
-activityid : Values 1 to 6 corresponsing to the fllowing activitylabel
+activityid : Values 1 to 6 corresponsing to the following activitylabel
 1- WALKING
 2- WALKING_UPSTAIRS
 3- WALKING_DOWNSTAIRS
